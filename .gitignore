@@ -1,1 +1,4 @@
 [Tt]humbs.db
+*\.sublime-*
+*\.prj
+*\.prj\.bak
