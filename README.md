@@ -1,4 +1,5 @@
-Math251ModelCourse
-==================
+Files related to my Math 352 Differential Equations course at The College of Idaho.
 
-Files and media related to my Math 251 course at the College of Idaho.
+If you are a current student, you should probably be looking at a child branch of this repository labeled with the current semester.
+
+-dwr
